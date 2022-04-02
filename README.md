@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/kallnascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santanagabi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallnascimento&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallnascimento&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;"
+  <img align="center" alt="Kall-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kall-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kall-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img align="right" alt="Kall-pic" height="150" style="border-radius:50px;"
        src="https://cdn.discordapp.com/attachments/854513688428806155/942843063611559966/giff.png">  
 
 </div>  
