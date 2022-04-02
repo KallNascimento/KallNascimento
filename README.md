@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kall-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Kall-Js" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-plain-wordmark.svg">
-  
- 
+  <img align="center" alt="Kall-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kall-Swift" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Kall-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kall-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img align="right" alt="Kall-pic" height="150" style="border-radius:50px;"
-       src="https://cdn.discordapp.com/attachments/854513688428806155/942843063611559966/giff.png">  
+       src="https://avatars.githubusercontent.com/u/66386083?v=4">  
 
 </div>  
   
