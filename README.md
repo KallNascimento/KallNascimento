@@ -40,8 +40,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/kauenascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>      
 
 </div>
-  
-  <div>
-    ![Snake animation](https://github.com/KallNascimento/KallNascimento/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
   
