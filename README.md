@@ -1,7 +1,6 @@
 
 ### Olá 👋
 ### Hello 👋
-
 <!--
 **KallNascimento/KallNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +35,8 @@ Here are some ideas to get you started:
   
 ##
   
-<div>   
+<div>
+  <div style="width:100%; text-align:center; padding:4px 4px 4px p4x">Keep in touch</div>
   <a href = "mailto:k.kuhn0407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauenascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>      
 
