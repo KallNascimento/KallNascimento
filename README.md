@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/kallnascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallnascimento&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallnascimento&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallnascimento&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallnascimento&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 
 </div>
 
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-  
