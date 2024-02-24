@@ -1,4 +1,3 @@
-
 ### Olá 👋| Hello 👋
 
 <div align="center">
@@ -26,4 +25,4 @@
 
 </div>
 
-![snake gif](https://github.com/kallnascimento/kallnascimento/blob/output/github-contribution-grid-snake.gif)
+<!---![snake gif](https://github.com/kallnascimento/kallnascimento/blob/output/github-contribution-grid-snake.gif)---->
